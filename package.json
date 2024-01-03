@@ -20,7 +20,6 @@
 		"@sveltejs/adapter-vercel": "^4.0.3",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
-		"@types/pg": "^8.10.9",
 		"@typescript-eslint/eslint-plugin": "^6.0.0",
 		"@typescript-eslint/parser": "^6.0.0",
 		"eslint": "^8.28.0",
@@ -38,6 +37,6 @@
 	"type": "module",
 	"dependencies": {
 		"drizzle-orm": "^0.29.1",
-		"pg": "^8.11.3"
+		"postgres": "^3.4.3"
 	}
 }
